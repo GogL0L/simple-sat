@@ -1,7 +1,7 @@
 simple-sat: Simple Python SAT Solver
 ====================================
 
-This fork is basically copy paste. The only difference is that you can write
+This fork is basically copy paste from sahands.The algo is not changed. The only difference is that you can write
 the formula in the terminal call.
 
 Original readme text:

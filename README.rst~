@@ -1,8 +1,10 @@
 simple-sat: Simple Python SAT Solver
 ====================================
 
-This is basically copy paste except you can input formula from terminal.
-Original readme:
+This fork is basically copy paste. The only difference is that you can write
+the formula in the terminal call.
+
+Original readme text:
 
 This project is a simple recursive and iterative implementation of a
 backtracking, watchlist-based, SAT solver. Code is based mostly on Knuth's
